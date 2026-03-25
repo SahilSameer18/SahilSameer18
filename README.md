@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sameer Siddique</h1>
-<h3 align="center">Building scalable, AI-powered web apps using Mern and Modern AI APIs.</h3>
+<h3 align="center">Building scalable, AI-powered web apps using MERN and Modern AI APIs.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-sameer-siddique-abb849233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,11 +24,14 @@
   </a>
 </p>
 
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,cpp,html,css,tailwind,nodejs,express,mongodb,postgres,postman,git" />
 </p>
+
 ---
 
 ## 🚀 Selected Works
@@ -52,13 +56,13 @@ An intelligent platform helping investors find high-potential properties instant
 
 ---
 
-### 🤖 skillbridgeAI
-An autonomous agent that posts auto-generated captions based on travel data.
+### 🤖 SkillBridgeAI
+An AI-powered platform designed to streamline career growth, learning, and opportunity discovery.
 
-**🔧 Tech Used:** Hugging Face (Mistral-7B), Twitter API  
-**🏆 Impact:** Reduced manual content creation time by **90%**
+**🔧 Tech Used:** MERN Stack, AI APIs, Authentication, Cloud Database  
+**🏆 Impact:** Built to simplify user interaction with career-focused AI workflows
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/ai-social-agent)
+🔗 [View Project](https://github.com/YOUR_USERNAME/skillbridgeAI)
 
 ---
 
@@ -68,18 +72,3 @@ An autonomous agent that posts auto-generated captions based on travel data.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilSameer18&theme=github_dark" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilSameer18&theme=github_dark" height="180em" />
 </p>
-
-<!--
-**SahilSameer18/SahilSameer18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
