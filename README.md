@@ -4,21 +4,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+App+Builder;React.js+%7C+Firebase+%7C+Next.js;Building+Travel+%26+Property+Tech+Solutions"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Developer;AI+App+Builder"
       alt="Typing SVG" 
     />
   </a>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m building **AI-powered automation tools and platforms**
-- 🌍 Focused on solving real problems in **Travel Tech** and **Property Tech**
-- ⚡ Skilled in **React.js, Next.js, Firebase, AI APIs, and Automation**
-- 🤖 Passionate about building **smart AI agents** and productivity systems
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
@@ -52,7 +42,7 @@ A smart travel planner that auto-generates personalized itineraries using AI.
 **🔧 Tech Used:** React.js, Firebase, Google Place API, Gemini API  
 **🏆 Impact:** Automated route planning and hotel search, reducing planning time by **60%**
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/safar-ai)
+🔗 [View Project](https://www.safarai.in/)
 
 ---
 
@@ -62,11 +52,11 @@ An intelligent platform helping investors find high-potential properties instant
 **🔧 Tech Used:** Next.js, Firebase, AI Agents, Zillow API  
 **🏆 Impact:** Implemented multi-agent collaboration for scouting and underwriting deals
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/janus-ai)
+🔗 [View Project](https://www.safarai.in/)
 
 ---
 
-### 🤖 AI Social Media Agent
+### 🤖 skillbridgeAI
 An autonomous agent that posts auto-generated captions based on travel data.
 
 **🔧 Tech Used:** Hugging Face (Mistral-7B), Twitter API  
@@ -92,22 +82,18 @@ An autonomous agent that posts auto-generated captions based on travel data.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/sahil-sameer-siddique-abb849233/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
+  <a href="https://sahil-sameer-portfolio.vercel.app/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="blank">
+  <a href="mailto:sahilsameer" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <!--
 **SahilSameer18/SahilSameer18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
