@@ -65,15 +65,9 @@ An autonomous agent that posts auto-generated captions based on travel data.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilSameer18&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilSameer18&theme=github_dark" height="180em" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <!--
 **SahilSameer18/SahilSameer18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
