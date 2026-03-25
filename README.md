@@ -26,6 +26,15 @@
 
 ---
 
+## 🚀 About Me
+
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- 🤖 Passionate about building **AI-powered applications**
+- ⚡ Focused on creating **scalable, real-world solutions**
+- 📈 Continuously learning and exploring **modern technologies**
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -33,12 +42,6 @@
 </p>
 
 ---
-
-🚀 About Me
-💻 Full Stack Developer specializing in MERN Stack
-🤖 Passionate about building AI-powered applications
-⚡ Focused on creating scalable, real-world solutions
-📈 Continuously learning and exploring modern technologies
 
 ## 🚀 Selected Works
 
