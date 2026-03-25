@@ -19,7 +19,7 @@
   <a href="https://sahil-sameer-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:sahilsameer.dev18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -34,7 +34,24 @@
 
 ---
 
+🚀 About Me
+💻 Full Stack Developer specializing in MERN Stack
+🤖 Passionate about building AI-powered applications
+⚡ Focused on creating scalable, real-world solutions
+📈 Continuously learning and exploring modern technologies
+
 ## 🚀 Selected Works
+
+
+### 🤖 SkillBridgeAI — AI Skill Gap Analyzer
+An AI-powered platform designed to streamline career growth, learning, and opportunity discovery.
+
+**🔧 Tech Used:** MERN Stack, Gemini AI API, JWT Authentication, Puppeteer
+**🏆 Impact:** Built to simplify user interaction with career-focused AI workflows
+
+🔗 [View Project](https://skillbridgeai-s.vercel.app/)
+
+---
 
 ### ✈️ Safar AI — AI Trip Planner
 A smart travel planner that auto-generates personalized itineraries using AI.
@@ -46,23 +63,13 @@ A smart travel planner that auto-generates personalized itineraries using AI.
 
 ---
 
-### 🏠 Janus AI — Property Deal Analyzer
+### 🏠 socialFeed — Social Media Platform
 An intelligent platform helping investors find high-potential properties instantly.
 
-**🔧 Tech Used:** Next.js, Firebase, AI Agents, Zillow API  
+**🔧 Tech Used:** React JS, Express JS, JWT Authentication, Tailwind CSS,   
 **🏆 Impact:** Implemented multi-agent collaboration for scouting and underwriting deals
 
-🔗 [View Project](https://www.safarai.in/)
-
----
-
-### 🤖 SkillBridgeAI
-An AI-powered platform designed to streamline career growth, learning, and opportunity discovery.
-
-**🔧 Tech Used:** MERN Stack, AI APIs, Authentication, Cloud Database  
-**🏆 Impact:** Built to simplify user interaction with career-focused AI workflows
-
-🔗 [View Project](https://github.com/YOUR_USERNAME/skillbridgeAI)
+🔗 [View Project](https://social-feed-frontend-nine.vercel.app/)
 
 ---
 
