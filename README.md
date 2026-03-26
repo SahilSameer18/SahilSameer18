@@ -49,7 +49,7 @@
 ### 🤖 SkillBridgeAI — AI Skill Gap Analyzer
 An AI-powered platform designed to streamline career growth, learning, and opportunity discovery.
 
-**🔧 Tech Used:** MERN Stack, Gemini AI API, JWT Authentication, Puppeteer
+**🔧 Tech Used:** MERN Stack, Gemini AI API, JWT Authentication, Puppeteer    
 **🏆 Impact:** Built to simplify user interaction with career-focused AI workflows
 
 🔗 [View Project](https://skillbridgeai-s.vercel.app/)
@@ -67,10 +67,10 @@ A smart travel planner that auto-generates personalized itineraries using AI.
 ---
 
 ### 🏠 socialFeed — Social Media Platform
-An intelligent platform helping investors find high-potential properties instantly.
+A social media platform where users can create posts, interact with content, and share updates in real time.
 
 **🔧 Tech Used:** React JS, Express JS, JWT Authentication, Tailwind CSS,   
-**🏆 Impact:** Implemented multi-agent collaboration for scouting and underwriting deals
+**🏆 Impact:** Built a scalable platform enabling users to post, engage, and manage content.
 
 🔗 [View Project](https://social-feed-frontend-nine.vercel.app/)
 
