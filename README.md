@@ -46,6 +46,16 @@
 ## 🚀 Selected Works
 
 
+### PrepStack — Interview Preparation Platform
+A scalable platform combining DSA tracking, CS fundamentals, and AI-powered tools.
+
+**🔧 Tech Used:** React JS, Express JS, JWT Authentication, Tailwind CSS,   
+**🏆 Impact:** Built a full-stack ecosystem for learners
+
+🔗 [View Project](https://prepstack-ss.vercel.app/)
+
+---
+
 ### 🤖 SkillBridgeAI — AI Skill Gap Analyzer
 An AI-powered platform designed to streamline career growth, learning, and opportunity discovery.
 
@@ -63,16 +73,6 @@ A smart travel planner that auto-generates personalized itineraries using AI.
 **🏆 Impact:** Automated route planning and hotel search, reducing planning time by **60%**
 
 🔗 [View Project](https://www.safarai.in/)
-
----
-
-### 🏠 socialFeed — Social Media Platform
-A social media platform where users can create posts, interact with content, and share updates in real time.
-
-**🔧 Tech Used:** React JS, Express JS, JWT Authentication, Tailwind CSS,   
-**🏆 Impact:** Built a scalable platform enabling users to post, engage, and manage content.
-
-🔗 [View Project](https://social-feed-frontend-nine.vercel.app/)
 
 ---
 
