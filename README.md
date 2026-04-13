@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-sameer-siddique-abb849233/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-sameer-siddique/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sahil-sameer-portfolio.vercel.app/" target="_blank">
