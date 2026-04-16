@@ -56,7 +56,7 @@ A scalable platform combining DSA tracking, CS fundamentals, and AI-powered tool
 
 ---
 
-### 🤖 SkillBridgeAI — AI Skill Gap Analyzer
+### SkillBridgeAI — AI Skill Gap Analyzer
 An AI-powered platform designed to streamline career growth, learning, and opportunity discovery.
 
 **🔧 Tech Used:** MERN Stack, Gemini AI API, JWT Authentication, Puppeteer    
@@ -66,7 +66,7 @@ An AI-powered platform designed to streamline career growth, learning, and oppor
 
 ---
 
-### ✈️ Safar AI — AI Trip Planner
+### Safar AI — AI Trip Planner
 A smart travel planner that auto-generates personalized itineraries using AI.
 
 **🔧 Tech Used:** React.js, Firebase, Google Place API, Gemini API  
