@@ -45,22 +45,22 @@ Full Stack Developer building scalable MERN and AI-powered applications
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="40"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
 </p>
 
 ### Database & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="40"/>
 </p>
 
 ### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" height="40"/>
 </p>
 
 ---
@@ -125,6 +125,8 @@ React.js • Tailwind CSS • Gemini API • Google Places API • Firebase
 </p>
 
 ---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSameer18&theme=tokyonight" />
 
 # 📫 Connect With Me
 
