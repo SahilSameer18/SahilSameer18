@@ -55,12 +55,12 @@ Full Stack Developer building scalable MERN and AI-powered applications
 
 ### Database & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
 ### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
 </p>
 
 ---
