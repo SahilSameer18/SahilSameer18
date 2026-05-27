@@ -76,9 +76,8 @@ React.js • Node.js • Express.js • MongoDB • Gemini API • JWT Auth • 
 
 ### ✨ Highlights
 - Built and deployed a scalable MERN application with secure JWT authentication
-- Engineered 14+ RESTful API endpoints for user-specific workflows
 - Integrated Gemini API to generate role-specific project ideas in under 30 seconds
-- Implemented route-level lazy loading improving frontend performance
+- Developed JWT auth with 14+ RESTful APIs and optimized frontend performance using route-level lazy loading.
 
 🔗 **Live:** https://prepstack-ss.vercel.app/
 
@@ -93,8 +92,7 @@ MERN Stack • Gemini API • JWT Authentication • Zod • Express Rate Limite
 
 ### ✨ Highlights
 - Built secure backend architecture with token blacklisting and validation middleware
-- Generated role-specific interview questions, roadmap suggestions, and skill analysis
-- Designed scalable AI workflows for career-focused automation
+- Generated report has role-specific interview questions, roadmap suggestions, and skill analysis
 
 🔗 **Live:** https://skillbridgeai-s.vercel.app/
 
@@ -108,9 +106,8 @@ A smart AI travel planner that generates personalized itineraries and travel rec
 React.js • Tailwind CSS • Gemini API • Google Places API • Firebase
 
 ### ✨ Highlights
-- Generated AI travel itineraries in under 20 seconds
+- Generates AI travel itineraries in under 20 seconds
 - Automated hotel recommendations and route planning
-- Built responsive mobile-first UI with React and Tailwind CSS
 
 🔗 **Live:** https://www.safarai.in/
 
@@ -122,11 +119,11 @@ React.js • Tailwind CSS • Gemini API • Google Places API • Firebase
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilSameer18&theme=github_dark" height="180em" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilSameer18&theme=github_dark" height="180em" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSameer18&theme=tokyonight" />
 </p>
 
 ---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSameer18&theme=tokyonight" />
 
 # 📫 Connect With Me
 
