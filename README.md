@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+PostgreSQL);Clean+Code+%7C+Scalable+Architecture;Open+to+SDE+Roles+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+PostgreSQL);Backend+Systems+%7C+Scalable+Architecture;Open+to+SDE+Roles+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </a>
@@ -33,16 +33,16 @@
 ## 👋 About Me
 
 I'm a Full Stack Developer with a focus on building **production-ready,
-AI-powered web applications** not just demos, but things that actually work
+AI-powered web applications**, not just demos, but things that actually work
 at scale with proper auth, validation, and architecture.
 
 My recent work sits at the intersection of **MERN/PostgreSQL backends** and
-**AI APIs (Gemini)** I enjoy the challenge of making AI feel useful and fast
+**AI APIs (Gemini)**. I enjoy the challenge of making AI feel useful and fast
 inside a real product, not just a chatbot wrapper.
 
 - 🔭 Currently building and improving **PrepStack**, **SkillBridgeAI**, and **Safar AI**
 - 🧠 Interested in **system design**, backend architecture, and developer tooling
-- 🎯 Open to **full-time SDE / Full Stack roles** — preferably product-focused teams
+- 🎯 Open to **full-time SDE / Full Stack roles** - preferably product-focused teams
 - 📍 Based in New Delhi
 
 ---
@@ -77,6 +77,7 @@ inside a real product, not just a chatbot wrapper.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)
 
 ---
 
@@ -116,7 +117,7 @@ inside a real product, not just a chatbot wrapper.
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT Auth` `Zod` `Rate Limiter`
 
 **What makes it stand out:**
-- 🛡️ Production-grade backend with **token blacklisting, Zod validation & rate limiting** — not just a Gemini wrapper
+- 🛡️ Production-grade backend with **token blacklisting, Zod validation & rate limiting** - not just a Gemini wrapper
 - 📋 Outputs **3 things at once:** skill gap analysis + learning roadmap + role-specific interview questions
 - 🔒 Secure session handling with proper logout and token invalidation flow
 
@@ -140,7 +141,7 @@ inside a real product, not just a chatbot wrapper.
 
 **What makes it stand out:**
 - 🗺️ Combines **Gemini AI + Google Places API** for itineraries grounded in real locations and hotels
-- ⚡ Full travel plan generated in **under 20 seconds** ,including routes, stays & daily activities
+- ⚡ Full travel plan generated in **under 20 seconds**, including routes, stays & daily activities
 - 🌐 Deployed on a custom domain ([safarai.in](https://www.safarai.in/))
 
 <p>
