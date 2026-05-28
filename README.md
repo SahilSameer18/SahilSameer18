@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sameer Siddique</h1>
 
 <h3 align="center">
-Full Stack Developer — MERN • PostgreSQL • AI-powered Applications
+Full Stack Developer • MERN • PostgreSQL • AI-powered Applications
 </h3>
 
 <p align="center">
@@ -31,7 +31,7 @@ Full Stack Developer — MERN • PostgreSQL • AI-powered Applications
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer — comfortable across **MERN** and **PostgreSQL + Prisma** stacks
+- 💻 Full Stack Developer - comfortable across **MERN** and **PostgreSQL + Prisma** stacks
 - 🤖 Building production-ready **AI-powered web applications** using Gemini API
 - 🔐 Experienced with **JWT Auth, REST APIs, Rate Limiting & Secure Backend Architecture**
 - ⚡ Focused on scalable architecture, clean code, and real-world problem solving
@@ -48,7 +48,7 @@ Full Stack Developer — MERN • PostgreSQL • AI-powered Applications
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" height="40"/>
 </p>
 
 ### Database & ORM
@@ -73,7 +73,6 @@ A full-stack interview prep platform combining DSA progress tracking, AI-generat
 **Highlights:**
 - Integrated Gemini API to generate role-specific project ideas in under 30 seconds
 - Built 14+ RESTful APIs with JWT authentication and route-level lazy loading for performance
-- Deployed full-stack app end-to-end on Vercel
 
 🔗 **Live:** https://prepstack-ss.vercel.app/
 
