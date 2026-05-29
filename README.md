@@ -1,7 +1,7 @@
 <h1 align="center">Sahil Sameer Siddique</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> who builds AI-integrated web apps that solve real problems -
+  <b>Full Stack Developer</b> who builds AI-integrated web apps that solve real problems
   <br/>from resume analyzers to smart travel planners.
 </p>
 
@@ -96,7 +96,6 @@ inside a real product, not just a chatbot wrapper.
 - 🤖 Gemini API generates **role-specific project ideas in under 30 seconds** based on target company & stack
 - 🔐 Secure auth system with **JWT + protected routes + lazy loading** for performance
 - 🗂️ 14+ RESTful APIs covering DSA tracking, CS fundamentals, resume tips & AI generation
-- ⚡ Route-level code splitting keeps initial load fast regardless of feature count
 
 <p>
   <a href="https://prepstack-ss.vercel.app/">
