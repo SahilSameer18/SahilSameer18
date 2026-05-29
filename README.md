@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+PostgreSQL);Backend+Systems+%7C+Scalable+Architecture;Open+to+SDE+Roles+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+PostgreSQL);Backend+Systems+%7C+Scalable+Architecture;Open+to+SDE+Roles"
       alt="Typing SVG"
     />
   </a>
@@ -85,7 +85,7 @@ inside a real product, not just a chatbot wrapper.
 
 ---
 
-### 🧠 PrepStack — SDE Interview Preparation Platform
+### 🧠 PrepStack - SDE Interview Preparation Platform
 > *One platform to track DSA, prep CS fundamentals, get AI project ideas, and polish your resume, built for developers who take interviews seriously.*
 
 **The problem it solves:** Interview prep is scattered across 10 different tabs. PrepStack brings it all under one roof with AI doing the heavy lifting.
@@ -109,7 +109,7 @@ inside a real product, not just a chatbot wrapper.
 
 ---
 
-### 🔍 SkillBridgeAI — AI Career Gap Analyzer
+### 🔍 SkillBridgeAI - AI Career Gap Analyzer
 > *Paste your resume + a job description. Get back a full skill gap report, personalized roadmap, and interview questions — in seconds.*
 
 **The problem it solves:** Most developers don't know exactly what's missing between their profile and a job listing. SkillBridgeAI makes that gap visible and actionable.
@@ -132,7 +132,7 @@ inside a real product, not just a chatbot wrapper.
 
 ---
 
-### ✈️ Safar AI — Smart AI Trip Planner
+### ✈️ Safar AI - Smart AI Trip Planner
 > *Tell it where you want to go and your budget. Get a complete day-by-day itinerary with hotels, routes, and local highlights — instantly.*
 
 **The problem it solves:** Planning a trip takes hours across Google, Maps, and travel blogs. Safar AI collapses that into one AI-generated plan.
