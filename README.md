@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+PostgreSQL);Backend+Systems+%7C+Scalable+Architecture;Open+to+SDE+Roles"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+PostgreSQL);Backend+Systems+%7C+Scalable+Architecture;AI+Web+Developer;Open+to+SDE+Roles"
       alt="Typing SVG"
     />
   </a>
