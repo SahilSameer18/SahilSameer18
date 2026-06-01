@@ -131,29 +131,6 @@ inside a real product, not just a chatbot wrapper.
 
 ---
 
-### ✈️ Safar AI - Smart AI Trip Planner
-> *Tell it where you want to go and your budget. Get a complete day-by-day itinerary with hotels, routes, and local highlights — instantly.*
-
-**The problem it solves:** Planning a trip takes hours across Google, Maps, and travel blogs. Safar AI collapses that into one AI-generated plan.
-
-**Tech:** `React.js` `Tailwind CSS` `Gemini API` `Google Places API` `Firebase`
-
-**What makes it stand out:**
-- 🗺️ Combines **Gemini AI + Google Places API** for itineraries grounded in real locations and hotels
-- ⚡ Full travel plan generated in **under 20 seconds**, including routes, stays & daily activities
-- 🌐 Deployed on a custom domain ([safarai.in](https://www.safarai.in/))
-
-<p>
-  <a href="https://www.safarai.in/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/SahilSameer18/safar-ai">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
