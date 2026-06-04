@@ -109,7 +109,7 @@ inside a real product, not just a chatbot wrapper.
 ---
 
 ### 🔍 SkillBridgeAI - AI Career Gap Analyzer
-> *Paste your resume + a job description. Get back a full skill gap report, personalized roadmap, and interview questions — in seconds.*
+> *Paste your resume + a job description. Get back a full skill gap report, personalized roadmap, and interview questions in seconds.*
 
 **The problem it solves:** Most developers don't know exactly what's missing between their profile and a job listing. SkillBridgeAI makes that gap visible and actionable.
 
