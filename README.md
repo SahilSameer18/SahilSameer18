@@ -140,7 +140,7 @@ inside a real product, not just a chatbot wrapper.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect -
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sahil-sameer-siddique/
 - 🌐 Portfolio: https://sahil-sameer-portfolio.vercel.app/
