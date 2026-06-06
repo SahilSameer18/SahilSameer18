@@ -138,10 +138,5 @@ inside a real product, not just a chatbot wrapper.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilSameer18&theme=github_dark" height="180em" />
 </p>
 
----
 
-## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sahil-sameer-siddique/
-- 🌐 Portfolio: https://sahil-sameer-portfolio.vercel.app/
-- 📧 Email: sahilsameer.dev18@gmail.com
