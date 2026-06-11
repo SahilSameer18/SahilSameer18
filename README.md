@@ -86,7 +86,7 @@ inside a real product, not just a chatbot wrapper.
 ---
 
 ### 🧠 PrepStack - SDE Interview Preparation Platform
-> *One platform to track DSA, prep CS fundamentals, get AI project ideas, and polish your resume, built for developers who take interviews seriously.*
+> *One platform to track DSA, prep CS fundamentals, get AI project ideas, and has resume building guidance, built for developers who take interviews seriously.*
 
 **The problem it solves:** Interview prep is scattered across 10 different tabs. PrepStack brings it all under one roof with AI doing the heavy lifting.
 
