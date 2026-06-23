@@ -52,6 +52,13 @@ On the frontend side I work in **React + Tailwind**, but most of my recent effor
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 🗄️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,11 +68,6 @@ On the frontend side I work in **React + Tailwind**, but most of my recent effor
 ### 🤖 AI & APIs
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Places API](https://img.shields.io/badge/Google_Places_API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🚀 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,9 +83,9 @@ On the frontend side I work in **React + Tailwind**, but most of my recent effor
 ### 🧠 PrepStack - SDE Interview Prep Platform
 > *Centralizes DSA tracking, CS fundamentals, AI project generation, and resume guidance into one platform.*
 
-- 🔐 **Refresh-token rotation auth** with HTTP-only `SameSite=none` cookies and server-side replay protection, backed by a reusable Zod `validate(schema)` middleware that returns structured per-field `422`s
-- 🤖 **Schema-constrained AI pipeline** - `zod-to-json-schema` locks Gemini's output to a strict typed shape, so the frontend renders structured project ideas with zero string parsing
-- ⚡ **Code-split React 19 frontend** - `lazy()` + Suspense across 7+ heavy routes (DSA Sheets, Notes, AI Projects, Resume) to keep the initial bundle light and Lighthouse scores high
+- 🔐 **Refresh-token rotation auth** with HTTP-only cookies backed by a reusable Zod `validate(schema)` middleware and express rate limiter
+- 🤖 **Schema-constrained AI pipeline** - Gemini output locked to a typed JSON shape, no string parsing
+- ⚡ **Code-split React 19 UI** - lazy-loaded routes for a lighter bundle and better Lighthouse scores
 
 **Tech:** `React 19` `Express 5` `MongoDB/Mongoose` `Gemini API` `Zod` `JWT`
 
@@ -102,8 +104,8 @@ On the frontend side I work in **React + Tailwind**, but most of my recent effor
 > *Resume + job description in, full skill-gap report, roadmap, and interview questions out.*
 
 - 🗄️ **Relational schema in Prisma/PostgreSQL** - `User → InterviewReport → {Questions, SkillGaps, PreparationPlan}` with cascading deletes, plus server-side token blacklisting on logout
-- 📄 **File-to-structured-data pipeline** - `pdf-parse` extracts resume text, merges it with the job description, and feeds a Gemini prompt constrained to a strict JSON shape
-- 🖥️ **Protected React routing** - a `Protected` route wrapper gates `/generate`, `/dashboard`, and report pages, with a one-click downloadable PDF export rendered server-side via Puppeteer
+- 📄 **Resume parsing + Gemini analysis** - PDF text is extracted and analyzed into a strict JSON report
+- 🖥️ **Protected React routing** with one-click PDF export rendered via Puppeteer
 
 **Tech:** `React 19` `Express 5` `PostgreSQL` `Prisma` `Gemini API` `Zod` `Puppeteer`
 
