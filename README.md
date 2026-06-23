@@ -1,8 +1,8 @@
 <h1 align="center">Sahil Sameer Siddique</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> who builds AI-integrated web apps that solve real problems
-  <br/>from resume analyzers to smart travel planners.
+  <b>Full Stack Developer</b> who leans backend-first - auth, validation, and architecture before pixels.
+  <br/>Builds AI-integrated web apps that solve real problems, not chatbot wrappers.
 </p>
 
 <p align="center">
@@ -32,45 +32,40 @@
 
 ## 👋 About Me
 
-I'm a Full Stack Developer with a focus on building **production-ready,
-AI-powered web applications**, not just demos, but things that actually work
-at scale with proper auth, validation, and architecture.
+I'm a Full Stack Developer who builds **production-ready, AI-powered web apps**, not demos. My focus sits on the backend: secure auth flows, layered request validation, rate limiting, and clean error handling - the parts that decide whether an app survives real users.
 
-My recent work sits at the intersection of **MERN/PostgreSQL backends** and
-**AI APIs (Gemini)**. I enjoy the challenge of making AI feel useful and fast
-inside a real product, not just a chatbot wrapper.
+On the frontend side I work in **React + Tailwind**, but most of my recent effort goes into **Node/Express + PostgreSQL/MongoDB backends** that integrate **Gemini AI** through type-safe, schema-constrained pipelines rather than loose prompt-and-pray calls.
 
-- 🔭 Currently building and improving **PrepStack**, **SkillBridgeAI**, and **Safar AI**
+- 🔭 Currently building and improving **PrepStack** and **SkillBridgeAI**
 - 🧠 Interested in **system design**, backend architecture, and developer tooling
-- 🎯 Open to **full-time SDE / Full Stack roles** - preferably product-focused teams
+- 🎯 Open to **full-time SDE / Full Stack roles** - preferably backend-leaning, product-focused teams
 - 📍 Based in New Delhi
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 
 ### 🗄️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🤖 AI & APIs
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Places API](https://img.shields.io/badge/Google_Places_API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🚀 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,19 +78,14 @@ inside a real product, not just a chatbot wrapper.
 
 ## 🚀 Featured Projects
 
----
+### 🧠 PrepStack - SDE Interview Prep Platform
+> *Centralizes DSA tracking, CS fundamentals, AI project generation, and resume guidance into one platform.*
 
-### 🧠 PrepStack - SDE Interview Preparation Platform
-> *One platform to track DSA, prep CS fundamentals, get AI project ideas, and has resume building guidance, built for developers who take interviews seriously.*
+- 🔐 **Refresh-token rotation auth** with HTTP-only `SameSite=none` cookies and server-side replay protection, backed by a reusable Zod `validate(schema)` middleware that returns structured per-field `422`s
+- 🤖 **Schema-constrained AI pipeline** - `zod-to-json-schema` locks Gemini's output to a strict typed shape, so the frontend renders structured project ideas with zero string parsing
+- ⚡ **Code-split React 19 frontend** - `lazy()` + Suspense across 7+ heavy routes (DSA Sheets, Notes, AI Projects, Resume) to keep the initial bundle light and Lighthouse scores high
 
-**The problem it solves:** Interview prep is scattered across 10 different tabs. PrepStack brings it all under one roof with AI doing the heavy lifting.
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT Auth` `Tailwind CSS`
-
-**What makes it stand out:**
-- 🤖 Gemini API generates **role-specific project ideas in under 30 seconds** based on target company & stack
-- 🔐 Secure auth system with **JWT + protected routes + lazy loading** for performance
-- 🗂️ 14+ RESTful APIs covering DSA tracking, CS fundamentals, resume tips & AI generation
+**Tech:** `React 19` `Express 5` `MongoDB/Mongoose` `Gemini API` `Zod` `JWT`
 
 <p>
   <a href="https://prepstack-ss.vercel.app/">
@@ -109,16 +99,13 @@ inside a real product, not just a chatbot wrapper.
 ---
 
 ### 🔍 SkillBridgeAI - AI Skill Gap Analyzer
-> *Paste your resume + a job description. Get back a full skill gap report, personalized roadmap, and interview questions in seconds.*
+> *Resume + job description in, full skill-gap report, roadmap, and interview questions out.*
 
-**The problem it solves:** Most developers don't know exactly what's missing between their profile and a job listing. SkillBridgeAI makes that gap visible and actionable.
+- 🗄️ **Relational schema in Prisma/PostgreSQL** - `User → InterviewReport → {Questions, SkillGaps, PreparationPlan}` with cascading deletes, plus server-side token blacklisting on logout
+- 📄 **File-to-structured-data pipeline** - `pdf-parse` extracts resume text, merges it with the job description, and feeds a Gemini prompt constrained to a strict JSON shape
+- 🖥️ **Protected React routing** - a `Protected` route wrapper gates `/generate`, `/dashboard`, and report pages, with a one-click downloadable PDF export rendered server-side via Puppeteer
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT Auth` `Zod` `Rate Limiter`
-
-**What makes it stand out:**
-- 🛡️ Production-grade backend with **token blacklisting, Zod validation & rate limiting** - not just a Gemini wrapper
-- 📋 Outputs **3 things at once:** skill gap analysis + learning roadmap + role-specific interview questions
-- 🔒 Secure session handling with proper logout and token invalidation flow
+**Tech:** `React 19` `Express 5` `PostgreSQL` `Prisma` `Gemini API` `Zod` `Puppeteer`
 
 <p>
   <a href="https://skillbridgeai-s.vercel.app/">
@@ -137,5 +124,3 @@ inside a real product, not just a chatbot wrapper.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilSameer18&theme=github_dark" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilSameer18&theme=github_dark" height="180em" />
 </p>
-
-
