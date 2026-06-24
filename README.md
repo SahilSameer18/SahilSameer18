@@ -32,7 +32,7 @@
 
 ## 👋 About Me
 
-I'm a Full Stack Developer who builds **production-ready, AI-powered web apps**, not demos. My focus sits on the backend: secure auth flows, layered request validation, rate limiting, and clean error handling - the parts that decide whether an app survives real users.
+I'm a Full Stack Developer who builds **production-ready, AI-powered web apps**. My focus sits on the backend: secure auth flows, layered request validation, rate limiting, and clean error handling - the parts that decide whether an app survives real users.
 
 On the frontend side I work in **React + Tailwind**, but most of my recent effort goes into **Node/Express + PostgreSQL/MongoDB backends** that integrate **Gemini AI** through type-safe, schema-constrained pipelines rather than loose prompt-and-pray calls.
 
