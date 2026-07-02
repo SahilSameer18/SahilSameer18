@@ -1,4 +1,4 @@
-<h1 align="center">Sahil Sameer Siddique.....</h1>
+<h1 align="center">Sahil Sameer Siddique</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> who leans backend-first - auth, validation, and architecture before pixels.
