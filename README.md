@@ -104,7 +104,7 @@ On the frontend side I work in **React + Tailwind**, but most of my recent effor
 > *Resume + job description in, full skill-gap report, roadmap, curated resources, and interview questions out.*
 
 - 🗄️ **Relational schema in Prisma/PostgreSQL** - `User → InterviewReport → {Questions, SkillGaps, PreparationPlan}` with cascading deletes, plus server-side token blacklisting on logout
-- 🔗 **Deterministic skill-resource matching** - skill gaps resolved server-side against a seeded skill catalog via word-boundary + fuzzy matching, no AI-generated links
+🔗 Deterministic skill-resource matching - server-side skill matching via word-boundary + fuzzy search, no AI-generated links
 - 🖥️ **Protected React routing** with one-click PDF export rendered via Puppeteer
 
 **Tech:** `React 19` `Express 5` `PostgreSQL` `Prisma` `Gemini API` `Zod` `Puppeteer`
