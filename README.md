@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer</b> who leans backend-first - auth, validation, and architecture before pixels.
-  <br/>Builds AI-integrated web apps that solve real problems, not chatbot wrappers
+  <br/>Builds AI-integrated web apps that solve real problems, not chatbot wrappers.
 </p>
 
 <p align="center">
