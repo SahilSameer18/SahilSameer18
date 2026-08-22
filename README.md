@@ -1,7 +1,7 @@
 <h1 align="center">Sahil Sameer Siddique</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> who leans backend-first - auth, validation, and architecture before pixels
+  <b>Full Stack Developer</b> who leans backend-first - auth, validation, and architecture before pixels,
   <br/>Builds AI-integrated web apps that solve real problems, not chatbot wrappers.
 </p>
 
