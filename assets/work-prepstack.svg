@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" width="1100" height="250" role="img" aria-label="PrepStack">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8A6A3B"/><stop offset=".5" stop-color="#E8CF9B"/><stop offset="1" stop-color="#B8935A"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0F"/><stop offset="1" stop-color="#16130E"/></linearGradient>
+<style>.s{font-family:Georgia,'Times New Roman',serif}.m{font-family:Consolas,'Courier New',monospace}</style></defs>
+<rect width="1100" height="250" fill="url(#b)"/>
+<rect x="8" y="8" width="1084" height="234" fill="none" stroke="url(#g)" stroke-width="1" opacity=".6"/>
+<text class="s" x="40" y="165" font-size="110" fill="none" stroke="#B8935A" stroke-width="1" opacity=".45">01</text>
+<text class="s" x="200" y="68" font-size="36" fill="url(#g)">PrepStack</text>
+<text class="s" x="200" y="97" font-size="16" font-style="italic" fill="#CFC6B4">SDE interview-prep platform: DSA, CS fundamentals, AI projects, resume guidance.</text>
+<text class="m" x="1056" y="62" font-size="12" letter-spacing="3" text-anchor="end" fill="#B8935A">LIVE DEMO ↗</text>
+<line x1="200" y1="112" x2="1056" y2="112" stroke="#B8935A" stroke-width=".5" opacity=".4"/>
+<text class="m" font-size="13" fill="#DDD6C6"><tspan x="200" y="138"><tspan fill="#B8935A">◆</tspan>  Refresh-token rotation, HTTP-only cookies, reusable Zod validate(schema) middleware</tspan><tspan x="200" y="162"><tspan fill="#B8935A">◆</tspan>  Gemini output locked to a typed JSON schema: no string parsing, no guesswork</tspan><tspan x="200" y="186"><tspan fill="#B8935A">◆</tspan>  Code-split React 19 UI with lazy-loaded routes, rate-limited API</tspan></text>
+<rect x="200" y="203" width="80" height="24" rx="12" fill="none" stroke="#B8935A" stroke-opacity=".7"/><text class="m" x="240" y="219" font-size="11" text-anchor="middle" fill="#E8CF9B">React 19</text>
+<rect x="290" y="203" width="87" height="24" rx="12" fill="none" stroke="#B8935A" stroke-opacity=".7"/><text class="m" x="333" y="219" font-size="11" text-anchor="middle" fill="#E8CF9B">Express 5</text>
+<rect x="387" y="203" width="73" height="24" rx="12" fill="none" stroke="#B8935A" stroke-opacity=".7"/><text class="m" x="423" y="219" font-size="11" text-anchor="middle" fill="#E8CF9B">MongoDB</text>
+<rect x="470" y="203" width="66" height="24" rx="12" fill="none" stroke="#B8935A" stroke-opacity=".7"/><text class="m" x="503" y="219" font-size="11" text-anchor="middle" fill="#E8CF9B">Gemini</text>
+<rect x="546" y="203" width="45" height="24" rx="12" fill="none" stroke="#B8935A" stroke-opacity=".7"/><text class="m" x="568" y="219" font-size="11" text-anchor="middle" fill="#E8CF9B">Zod</text>
+<rect x="601" y="203" width="45" height="24" rx="12" fill="none" stroke="#B8935A" stroke-opacity=".7"/><text class="m" x="623" y="219" font-size="11" text-anchor="middle" fill="#E8CF9B">JWT</text>
+</svg>
