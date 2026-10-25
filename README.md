@@ -52,80 +52,27 @@ I'm a full stack developer who starts at the **server** — secure auth flows, r
 
 ## &nbsp;II &nbsp;·&nbsp; Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### PrepStack
-**SDE interview-prep platform**<br/>
-<sub>DSA tracking, CS fundamentals, AI project generation and resume guidance — one workspace.</sub>
+<a href="https://prepstack-ss.vercel.app/"><img src="assets/work-prepstack.svg" alt="PrepStack" width="100%"/></a>
+<sub><a href="https://prepstack-ss.vercel.app/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/prepstack">Source</a></sub>
 
-- Refresh-token rotation, HTTP-only cookies
-- Reusable Zod `validate(schema)` middleware + rate limiting
-- Gemini output locked to a typed JSON shape
-- Code-split React 19 UI, lazy-loaded routes
+<br/><br/>
 
-`React 19` `Express 5` `MongoDB` `Gemini` `Zod` `JWT`
+<a href="https://github.com/SahilSameer18/InForge"><img src="assets/work-inforge.svg" alt="InForge" width="100%"/></a>
+<sub><a href="https://inforge-fgdb.onrender.com/api/health">System health</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/InForge">Source</a></sub>
 
-[**Live ↗**](https://prepstack-ss.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/SahilSameer18/prepstack)
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://vaultdrive-s.vercel.app"><img src="assets/work-vaultdrive.svg" alt="VaultDrive" width="100%"/></a>
+<sub><a href="https://vaultdrive-s.vercel.app">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/vaultDrive">Source</a></sub>
 
-### SkillBridgeAI
-**AI skill-gap analyzer**<br/>
-<sub>Resume + job description in. Gap report, roadmap, curated resources and interview questions out.</sub>
+<br/><br/>
 
-- Prisma/PostgreSQL: `User → InterviewReport → {Questions, SkillGaps, PreparationPlan}`, cascading deletes
-- Word-boundary + fuzzy skill matching, zero AI-made links
-- Server-side token blacklisting on logout
-- One-click PDF export via Puppeteer
+<a href="https://mindmesh-s.vercel.app/"><img src="assets/work-mindmesh.svg" alt="mindMesh" width="100%"/></a>
+<sub><a href="https://mindmesh-s.vercel.app/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/mindMesh">Source</a></sub>
 
-`React 19` `Express 5` `PostgreSQL` `Prisma` `Gemini` `Puppeteer`
-
-[**Live ↗**](https://skillbridgeai-s.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/SahilSameer18/skillbridgeAI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### VaultDrive
-**Cloud storage, done properly**<br/>
-<sub>Soft-delete trash with restore fallbacks, nested folders with cycle guards, public share links, presigned direct uploads.</sub>
-
-- JWT auth with token rotation
-- Server-side search, multi-field sort, pagination
-
-`React` `Express` `PostgreSQL` `Prisma` `Cloudinary`
-
-[**Live ↗**](https://vaultdrive-s.vercel.app) &nbsp;·&nbsp; [Source](https://github.com/SahilSameer18/vaultDrive)
-
-</td>
-<td width="50%" valign="top">
-
-### mindMesh
-**The conversation becomes the canvas**<br/>
-<sub>AI-native collaborative workspace that turns spoken dialogue into living knowledge maps in real time.</sub>
-
-- Real-time collaboration over sockets
-- Speech → structured, interactive graph
-
-`React` `Node` `Socket.IO` `AI`
-
-[**Live ↗**](https://mindmesh-s.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/SahilSameer18/mindMesh)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### InForge
-**Event-driven Gmail safety & automation platform** — deterministic, zero-persistence email-body architecture: message content is processed, never stored. &nbsp; `Node 20` `Express 5` `React 19` `Tailwind v4` &nbsp;·&nbsp; [Source](https://github.com/SahilSameer18/InForge)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -160,7 +107,7 @@ I'm a full stack developer who starts at the **server** — secure auth flows, r
 
 <div align="center">
 
-<sub>Currently building & refining **PrepStack** and **SkillBridgeAI**</sub>
+<sub>Currently building & refining **PrepStack** and **InForge**</sub>
 
 <br/><br/>
 
