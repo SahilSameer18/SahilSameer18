@@ -1,118 +1,123 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sahil Sameer Siddique — Backend-first Full Stack Engineer" width="100%"/>
+<img src="assets/banner.svg" alt="Sahil Sameer Siddique, backend-first full stack engineer" width="100%"/>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0C0F?style=for-the-badge&logo=vercel&logoColor=B8935A&labelColor=0B0C0F&color=B8935A)](https://sahil-sameer-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0C0F?style=for-the-badge&logo=linkedin&logoColor=B8935A&labelColor=0B0C0F&color=B8935A)](https://www.linkedin.com/in/sahil-sameer-siddique/)
-[![Email](https://img.shields.io/badge/EMAIL-0B0C0F?style=for-the-badge&logo=gmail&logoColor=B8935A&labelColor=0B0C0F&color=B8935A)](mailto:sahilsameer.dev18@gmail.com)
-[![Open to SDE roles](https://img.shields.io/badge/OPEN_TO-SDE_ROLES-0B0C0F?style=for-the-badge&labelColor=0B0C0F&color=B8935A)](mailto:sahilsameer.dev18@gmail.com)
-
-<br/>
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=B8935A&center=true&vCenter=true&width=640&lines=I+build+the+parts+that+decide+if+an+app+survives+real+users.;Refresh-token+rotation.+Layered+validation.+Rate+limits.;AI+that+is+schema-constrained%2C+not+prompt-and-pray.)](https://sahil-sameer-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/OPEN_TO-SDE_ROLES-0B0C0F?style=for-the-badge&logo=gmail&logoColor=B8935A&labelColor=0B0C0F&color=B8935A)](mailto:sahilsameer.dev18@gmail.com)
 
 </div>
 
 <br/>
 
-## &nbsp;I &nbsp;·&nbsp; Philosophy
+## Hi, I'm Sahil
+
+I'm a full stack engineer who starts at the **server**: auth flows, request validation, rate limiting and honest error handling. Then I build the interface on top of something that can carry weight.
 
 > *Most apps don't fail on the landing page. They fail at the login, the edge case, the 10,001st request.*
 
-I'm a full stack developer who starts at the **server** — secure auth flows, request validation, rate limiting and honest error handling — then builds the interface on top of something that can carry weight. My AI work is **type-safe by construction**: model output is forced into a typed schema and validated, never string-parsed and hoped for.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**◆ Security-first**<br/>
-<sub>Rotating refresh tokens, HTTP-only cookies, server-side token blacklisting, cycle-guarded data trees.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**◆ Deterministic AI**<br/>
-<sub>Gemini locked to JSON schemas. Resource links matched server-side — never hallucinated.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**◆ Product-minded**<br/>
-<sub>Every project is live, deployed and solves a real problem. No chatbot wrappers.</sub>
-
-</td>
-</tr>
-</table>
-
-📍 New Delhi &nbsp;·&nbsp; 🎯 Seeking full-time **SDE / Full Stack** roles on backend-leaning, product-focused teams &nbsp;·&nbsp; 🧠 Into system design & developer tooling
+📍 New Delhi, India
+🎯 Looking for **SDE / Full Stack** roles on backend-leaning, product-focused teams
+🎓 <!-- TODO: B.Tech / degree, college, graduation year -->
+🧠 Interested in system design and developer tooling
 
 <br/>
 
-## &nbsp;II &nbsp;·&nbsp; Selected Work
-
-<div align="center">
-
-<a href="https://prepstack-ss.vercel.app/"><img src="assets/work-prepstack.svg" alt="PrepStack" width="100%"/></a>
-<sub><a href="https://prepstack-ss.vercel.app/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/prepstack">Source</a></sub>
-
-<br/><br/>
-
-<a href="https://github.com/SahilSameer18/InForge"><img src="assets/work-inforge.svg" alt="InForge" width="100%"/></a>
-<sub><a href="https://inforge-fgdb.onrender.com/api/health">System health</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/InForge">Source</a></sub>
-
-<br/><br/>
-
-<a href="https://vaultdrive-s.vercel.app"><img src="assets/work-vaultdrive.svg" alt="VaultDrive" width="100%"/></a>
-<sub><a href="https://vaultdrive-s.vercel.app">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/vaultDrive">Source</a></sub>
-
-<br/><br/>
-
-<a href="https://mindmesh-s.vercel.app/"><img src="assets/work-mindmesh.svg" alt="mindMesh" width="100%"/></a>
-<sub><a href="https://mindmesh-s.vercel.app/">Live demo</a> &nbsp;·&nbsp; <a href="https://github.com/SahilSameer18/mindMesh">Source</a></sub>
-
-</div>
-
-<br/>
-
-## &nbsp;III &nbsp;·&nbsp; Instruments
-
-<div align="center">
+## What I care about
 
 | | |
 |:--|:--|
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0B0C0F?style=flat-square&logo=nodedotjs&logoColor=B8935A) ![Express](https://img.shields.io/badge/Express-0B0C0F?style=flat-square&logo=express&logoColor=B8935A) ![JWT](https://img.shields.io/badge/JWT-0B0C0F?style=flat-square&logo=jsonwebtokens&logoColor=B8935A) ![Zod](https://img.shields.io/badge/Zod-0B0C0F?style=flat-square&logo=zod&logoColor=B8935A) ![Socket.IO](https://img.shields.io/badge/Socket.IO-0B0C0F?style=flat-square&logo=socketdotio&logoColor=B8935A) ![REST API](https://img.shields.io/badge/REST_API-0B0C0F?style=flat-square&logo=postman&logoColor=B8935A) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0B0C0F?style=flat-square&logo=react&logoColor=B8935A) ![TypeScript](https://img.shields.io/badge/TypeScript-0B0C0F?style=flat-square&logo=typescript&logoColor=B8935A) ![Tailwind](https://img.shields.io/badge/Tailwind-0B0C0F?style=flat-square&logo=tailwindcss&logoColor=B8935A) ![HTML5](https://img.shields.io/badge/HTML5-0B0C0F?style=flat-square&logo=html5&logoColor=B8935A) ![CSS3](https://img.shields.io/badge/CSS3-0B0C0F?style=flat-square&logo=css3&logoColor=B8935A) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0C0F?style=flat-square&logo=postgresql&logoColor=B8935A) ![MongoDB](https://img.shields.io/badge/MongoDB-0B0C0F?style=flat-square&logo=mongodb&logoColor=B8935A) ![Redis](https://img.shields.io/badge/Redis-0B0C0F?style=flat-square&logo=redis&logoColor=B8935A) ![Prisma](https://img.shields.io/badge/Prisma-0B0C0F?style=flat-square&logo=prisma&logoColor=B8935A) ![Mongoose](https://img.shields.io/badge/Mongoose-0B0C0F?style=flat-square&logo=mongoose&logoColor=B8935A) |
-| **AI & APIs** | ![Gemini](https://img.shields.io/badge/Gemini-0B0C0F?style=flat-square&logo=googlegemini&logoColor=B8935A) ![Groq](https://img.shields.io/badge/Groq-0B0C0F?style=flat-square&labelColor=0B0C0F&color=B8935A) ![Google Places](https://img.shields.io/badge/Places_API-0B0C0F?style=flat-square&logo=googlemaps&logoColor=B8935A) |
-| **Ship** | ![Git](https://img.shields.io/badge/Git-0B0C0F?style=flat-square&logo=git&logoColor=B8935A) ![GitHub](https://img.shields.io/badge/GitHub-0B0C0F?style=flat-square&logo=github&logoColor=B8935A) ![Vercel](https://img.shields.io/badge/Vercel-0B0C0F?style=flat-square&logo=vercel&logoColor=B8935A) ![Render](https://img.shields.io/badge/Render-0B0C0F?style=flat-square&logo=render&logoColor=B8935A) ![Neon](https://img.shields.io/badge/Neon-0B0C0F?style=flat-square&logo=neon&logoColor=B8935A) ![Postman](https://img.shields.io/badge/Postman-0B0C0F?style=flat-square&logo=postman&logoColor=B8935A) |
-
-</div>
+| 🔐 **Security by default** | Rotating refresh tokens, HTTP-only cookies, server-side token blacklisting, cycle-guarded tree structures. |
+| 🧱 **Layered validation** | Zod schemas at the edge, typed data in the middle, and rate limits in front of both. |
+| 🤖 **Schema-validated AI** | Model output is forced into a JSON schema and validated. Resource links are matched server-side, never generated by the model. |
+| 🚀 **Shipped, not stashed** | Every project below is deployed and has a working link. |
 
 <br/>
 
-## &nbsp;IV &nbsp;·&nbsp; The Ledger
+## Selected work
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilSameer18&theme=github_dark"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilSameer18&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSameer18&background=0B0C0F&ring=B8935A&fire=B8935A&currStreakLabel=B8935A&sideLabels=CFC6B4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8576&border=B8935A&stroke=2A2519" width="640"/>
+<a href="https://prepstack-ss.vercel.app/"><img src="assets/work-prepstack.svg" alt="PrepStack card" width="100%"/></a>
 
 </div>
+
+**PrepStack** · AI-assisted interview preparation
+Gemini output is constrained to JSON schemas, and recommended resources are matched against a server-side catalogue instead of being invented by the model.
+<!-- TODO: one metric, e.g. number of users, tests, or endpoints -->
+`Node.js` `Express` `PostgreSQL` `Prisma` `Gemini` `React` `TypeScript`
+[Live demo](https://prepstack-ss.vercel.app/) · [Source](https://github.com/SahilSameer18/prepstack)
 
 <br/>
 
 <div align="center">
 
-<sub>Currently building & refining **PrepStack** and **InForge**</sub>
+<a href="https://github.com/SahilSameer18/InForge"><img src="assets/work-inforge.svg" alt="InForge card" width="100%"/></a>
 
-<br/><br/>
+</div>
 
-**Let's build something that holds up.** &nbsp;[sahilsameer.dev18@gmail.com](mailto:sahilsameer.dev18@gmail.com)
+**InForge** · Backend-focused platform
+<!-- TODO: one sentence on what InForge does and its hardest engineering problem -->
+Production-style API with authentication, validation and rate limiting. The free-tier host sleeps when idle, so the first request can take up to a minute.
+`Node.js` `Express` `JWT` `Zod` `Redis`
+[System health](https://inforge-fgdb.onrender.com/api/health) · [Source](https://github.com/SahilSameer18/InForge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0F,100:B8935A&height=90&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+<a href="https://vaultdrive-s.vercel.app"><img src="assets/work-vaultdrive.svg" alt="VaultDrive card" width="100%"/></a>
+
+</div>
+
+**VaultDrive** · Secure file storage
+Refresh-token rotation with server-side blacklisting, plus cycle-guarded folder trees so a move operation can never make a folder its own ancestor.
+`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `React`
+[Live demo](https://vaultdrive-s.vercel.app) · [Source](https://github.com/SahilSameer18/vaultDrive)
+
+<br/>
+
+<div align="center">
+
+<a href="https://mindmesh-s.vercel.app/"><img src="assets/work-mindmesh.svg" alt="mindMesh card" width="100%"/></a>
+
+</div>
+
+**mindMesh** · Connected-ideas workspace
+<!-- TODO: one sentence on what mindMesh does and its hardest engineering problem -->
+Real-time features built on Socket.IO with a typed API layer.
+`Node.js` `Socket.IO` `React` `TypeScript` `Tailwind`
+[Live demo](https://mindmesh-s.vercel.app/) · [Source](https://github.com/SahilSameer18/mindMesh)
+
+<br/>
+
+## Toolkit
+
+| | |
+|:--|:--|
+| **Backend** | Node.js · Express · REST · JWT · Zod · Socket.IO |
+| **Frontend** | React · TypeScript · Tailwind CSS |
+| **Data** | PostgreSQL · MongoDB · Redis · Prisma · Mongoose |
+| **AI** | Gemini (structured output) · Groq |
+| **APIs** | Google Places |
+| **Ship** | Git · GitHub · Vercel · Render · Neon · Postman |
+
+<br/>
+
+## Currently
+
+- Building and refining **PrepStack** and **InForge**
+- Going deeper on system design: caching, queues, and failure modes
+
+<br/>
+
+<div align="center">
+
+**Let's build something that holds up.**
+[sahilsameer.dev18@gmail.com](mailto:sahilsameer.dev18@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C0F,100:B8935A&height=90&section=footer" width="100%" alt=""/>
 
 </div>
